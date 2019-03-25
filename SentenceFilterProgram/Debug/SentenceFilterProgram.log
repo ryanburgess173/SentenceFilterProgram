@@ -1,0 +1,4 @@
+﻿  Application.cpp
+c:\users\ryanb\source\repos\sentencefilterprogram\sentencefilterprogram\application.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanb\source\repos\sentencefilterprogram\sentencefilterprogram\application.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  SentenceFilterProgram.vcxproj -> C:\Users\ryanb\source\repos\SentenceFilterProgram\Debug\SentenceFilterProgram.exe

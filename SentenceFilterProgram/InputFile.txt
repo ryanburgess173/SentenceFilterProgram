@@ -1,0 +1,1 @@
+a filter is a Computer Program or Subroutine to process a stream, producing another stream. while a Single Filter can be used individually, they are frequently strung together to form a Pipeline. some Operating Systems such as Unix are rich with Filter programs.
