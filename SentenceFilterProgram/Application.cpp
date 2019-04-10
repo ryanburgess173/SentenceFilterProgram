@@ -1,6 +1,6 @@
 /*
 	Johnathan R. Burgess, 3/24/2019
-	Advanced C++ Programming, Sentence Filter Project
+	Sentence Filter Project
 */
 #include <iostream>
 #include <string>
